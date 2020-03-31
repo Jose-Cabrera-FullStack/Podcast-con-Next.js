@@ -19,7 +19,7 @@
   "homepage": "https://github.com/murdoc6/Podcast-con-NExt.js",
   "dependencies": {
     "isomorphic-fetch": "2.2.1",
-    "next": "7.0.2",
+    "next": "9.3.2",
     "next-routes": "1.4.2",
     "nprogress": "0.2.0",
     "react": "16.7.0",
